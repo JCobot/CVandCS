@@ -1,2 +1,2 @@
 ciao
-questo è il primo file git da add
+questo è il primo file git da aggiungere con comandi add e commit
